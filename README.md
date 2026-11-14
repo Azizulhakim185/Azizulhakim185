@@ -83,13 +83,21 @@ I am particularly interested in Business Intelligence, Data Analytics, Data Qual
 
 ---
 
+
 ## 🎓 Education
 
-**Bachelor of Science in Computer Science & Engineering**
+**Bachelor of Science in Computer Science & Engineering (CSE)**
 
 Ahsanullah University of Science and Technology (AUST), Dhaka
 
 Graduated: July 2026
+
+**Relevant Fourth-Year Specialization Coursework:**
+- Data Warehousing and Data Mining
+- Data Analytics
+
+These specialization courses strengthened my academic foundation in data management, analytical methods, data processing, and extracting meaningful insights from data.
+
 
 ---
 
